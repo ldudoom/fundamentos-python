@@ -6,6 +6,10 @@
 (%)  Modulo o Residuo
 (//) Division con resultado valor entero
 (**) Potenciacion
+
+Operadores Basicos en Python con ejemplos:
+https://www.freecodecamp.org/espanol/news/operadores-basicos-en-python-con-ejemplos/
+
 '''
 
 print(10 + 10)
