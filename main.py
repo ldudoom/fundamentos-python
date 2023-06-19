@@ -1,7 +1,7 @@
 # Juego de piedra papel o tijera
 import random
 
-user_option = input('piedra, papel o tijera? => ')
+user_option = input('piedra, papel o tijera? => ').lower().strip()
 rand_option = random.randint(0,2)
 if rand_option == 0:
     computer_option = 'piedra'
